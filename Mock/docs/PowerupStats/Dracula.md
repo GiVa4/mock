@@ -1,0 +1,1 @@
+Every time you get a kill, you get additional hp. Specifically, the amount of Dracula powerups you have is how much hp you gain. Each dracula also caps out at 40 additional hp. Every time you get a Dracula, you need to kill 40 mobs to reach the limit.

@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - New tag
+  - Local
+  - Online
+  - Build
+  - Terrain
+  - Count
+  - Ignore
+  - NoHpBar
+  - Item
+  - DontCount
   layers:
   - Default
   - TransparentFX
@@ -13,18 +23,18 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - pp
+  - Ground
+  - Object
+  - Pickup
+  - Player
+  - Enemy
+  - WeaponSelf
+  - Interact
+  - GroundAndObjectOnly
+  - PlayerOnly
+  - PlayerAndObjectOnly
+  - Projectile
   - 
   - 
   - 
